@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+data/tweets.json
+data/insights/
+*.egg-info/
+.venv/
